@@ -16,7 +16,9 @@
 	<bean id="depBiz" class="com.erp.biz.impl.DepBizImpl">
 		<property name="depDao" ref="depDao"></property>
 	</bean>
+	<bean id="exportBiz" class="com.erp.biz.impl.ExportBizImpl">
 
+	</bean>
 	
 </beans>
 	

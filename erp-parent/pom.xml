@@ -233,6 +233,7 @@
                     <port>8080</port>
                     <!-- 请求路径 -->
                     <path>/erp</path>
+                    <uriEncoding>UTF-8</uriEncoding>
                 </configuration>
             </plugin>
         </plugins>

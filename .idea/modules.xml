@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ERP.iml" filepath="$PROJECT_DIR$/.idea/ERP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-parent/erp-biz/erp-biz.iml" filepath="$PROJECT_DIR$/erp-parent/erp-biz/erp-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-parent/erp-dao/erp-dao.iml" filepath="$PROJECT_DIR$/erp-parent/erp-dao/erp-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-parent/erp-entity/erp-entity.iml" filepath="$PROJECT_DIR$/erp-parent/erp-entity/erp-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-parent/erp-parent.iml" filepath="$PROJECT_DIR$/erp-parent/erp-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-parent/erp-web/erp-web.iml" filepath="$PROJECT_DIR$/erp-parent/erp-web/erp-web.iml" />
+    </modules>
+  </component>
+</project>
